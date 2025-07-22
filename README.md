@@ -10,4 +10,4 @@ Este repositorio contiene los anexos y recursos complementarios del libro:
 - Otros recursos utilizados en los ejercicios del libro
 
 ## Contacto
-[Tu Nombre]
+Carlos Andrés Tamayo Benjumea
